@@ -1,13 +1,13 @@
 '''An example of support vector machines in action using a prepackaged dataset'''
 
-# Boilerplate imports
+# boilerplate imports
 %matplotlib 
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns; sns.set()
 
-# Dataset fetch
+# collated photos of various public figures
 from sklearn.datasets import fetch_lfw_people
 faces = fetch_lfw_people(min_faces_per_person=60)
 
