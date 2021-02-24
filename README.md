@@ -3,5 +3,3 @@ This repository contains various files related to machine learning. Some are mea
 
 # Contents
 [Linear Models for Regression](/Linear-Models-for-Regression.ipynb)
-
-
