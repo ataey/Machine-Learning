@@ -8,5 +8,6 @@ This repository contains various files related to machine learning. Some are mea
 
 ### Unsupervised Learning
 [Principal Component Analysis Overview](https://github.com/ataey/Machine-Learning/blob/main/Unsupervised%20Learning/PCA%20Overview.ipynb)
+[k-Means Clustering](https://github.com/ataey/Machine-Learning/blob/main/Unsupervised%20Learning/k-Means%20Clustering.ipynb)
 
 ### Deep Learning
